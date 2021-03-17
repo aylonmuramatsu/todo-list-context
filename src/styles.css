@@ -1,0 +1,10 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.form-control {
+  background: #fff;
+  border: 2px solid #c2c2c2;
+  border-radius: 1.5em;
+}
